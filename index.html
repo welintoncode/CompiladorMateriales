@@ -751,45 +751,51 @@ window.addEventListener("DOMContentLoaded", function() {
         localStorage.removeItem("codigosRegistrados");
     }
 
-    function exportarExcel() {
-        // Seleccionar la tabla compilada
-        var tablaCompilado = document.getElementById("tablaCompilado");
-        
-        // Crear un nuevo libro de Excel
-        var libro = XLSX.utils.book_new();
-        
-        // Obtener las filas de la tabla compilada
-        var filas = tablaCompilado.rows;
-        
-        // Crear una matriz para almacenar los datos
-        var datos = [];
-        
-        // Iterar sobre las filas y obtener solo las celdas necesarias
-        for (var i = 0; i < filas.length; i++) {
-            var fila = filas[i];
-            var filaDatos = [];
-            
-            // Excluir la última celda que corresponde a la columna "Acción"
-            for (var j = 0; j < fila.cells.length - 1; j++) {
-                filaDatos.push(fila.cells[j].innerText);
+
+	function exportarExcel() {
+    // Seleccionar la tabla compilada
+    var tablaCompilado = document.getElementById("tablaCompilado");
+
+    // Crear un nuevo libro de Excel
+    var libro = XLSX.utils.book_new();
+
+    // Obtener las filas de la tabla compilada
+    var filas = tablaCompilado.rows;
+
+    // Crear una matriz para almacenar los datos
+    var datos = [];
+
+    // Iterar sobre las filas y obtener solo las celdas necesarias
+    for (var i = 0; i < filas.length; i++) {
+        var fila = filas[i];
+        var filaDatos = [];
+
+        // Iterar sobre las celdas de la fila
+        for (var j = 0; j < fila.cells.length; j++) {
+            var celda = fila.cells[j];
+
+            // Verificar si la celda tiene un input dentro
+            var input = celda.querySelector("input");
+            if (input) {
+                filaDatos.push(input.value); // Agregar el valor del input
+            } else {
+                filaDatos.push(celda.innerText); // Agregar el texto de la celda
             }
-            
-            datos.push(filaDatos);
         }
-        
-        // Crear una hoja de cálculo a partir de los datos
-        var hoja = XLSX.utils.aoa_to_sheet(datos);
-        
-        // Agregar la hoja al libro
-        XLSX.utils.book_append_sheet(libro, hoja, "TablaCompilado");
-        
-        // Guardar el libro como un archivo Excel
-        XLSX.writeFile(libro, "tabla_compilado.xlsx");
-			toastMixin.fire({
-				title: 'Archivo guardado con exito!',
-				icon: 'success'
-			});
+
+        datos.push(filaDatos); // Agregar la fila a los datos
     }
+
+    // Crear una hoja de cálculo a partir de los datos
+    var hoja = XLSX.utils.aoa_to_sheet(datos);
+
+    // Agregar la hoja al libro
+    XLSX.utils.book_append_sheet(libro, hoja, "TablaCompilado");
+
+    // Guardar el libro como un archivo Excel
+    XLSX.writeFile(libro, "tabla_compilado.xlsx");
+}
+
 
 
 
