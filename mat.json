@@ -1,0 +1,949 @@
+{
+"Sheet1":[
+ {
+  "CODIGOS": 4000299,
+  "DESCRIPCION": "Poste Madera De 25' Cca",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 4000300,
+  "DESCRIPCION": "Poste De Madera De 30'",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 4000268,
+  "DESCRIPCION": "Cable 600 X 26 Alp.",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 4000267,
+  "DESCRIPCION": "CABLE 1200 X 26 ALP-FILLED FOAM SKIN",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 4000264,
+  "DESCRIPCION": "Cable 25X24 Fig.8",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 4000275,
+  "DESCRIPCION": "Cable 50 X 24 Fig.8 ",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 4000263,
+  "DESCRIPCION": "Cable 100 X 24 Fig.8",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 4000261,
+  "DESCRIPCION": "Cable 200 X 24 Fig. 8 ",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 4000251,
+  "DESCRIPCION": "Cable 300 X 24 Fig.8",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 4000276,
+  "DESCRIPCION": "Cable 400 X 26 Fig.8 ",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 4000296,
+  "DESCRIPCION": "Cable 300 X 24 Alp.",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001153,
+  "DESCRIPCION": "Alambre Solido No.6 (TIERRA 30FT)",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000415,
+  "DESCRIPCION": "Ancla Expansion-\"Coco\"",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000441,
+  "DESCRIPCION": "Tornillo Comun 5\/8",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000465,
+  "DESCRIPCION": "\" 1\/2 Tabaco\" 1\/4",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000466,
+  "DESCRIPCION": "\"1\/2 Tabaco\" 5\/16",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000467,
+  "DESCRIPCION": "Grip 1\/4''",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000468,
+  "DESCRIPCION": "Grip 5\/16 ",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000470,
+  "DESCRIPCION": "Abraz. Union Tubo S.W.",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000471,
+  "DESCRIPCION": "Sugetador Poste S.W.",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000473,
+  "DESCRIPCION": "Brazo Tensor Para Cable (BT)",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000474,
+  "DESCRIPCION": "Abrazadera Redonda (PPR)",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000475,
+  "DESCRIPCION": "Abrazadera Cuadrada (PPC)",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000477,
+  "DESCRIPCION": "Protector De Viento",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000478,
+  "DESCRIPCION": "Prot. Alambre De Tierra",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000479,
+  "DESCRIPCION": "Gancho Tensor (CUERNO)",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000480,
+  "DESCRIPCION": "Tuerca 5\/8 , Gruesa (GALVANIZADA)",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000461,
+  "DESCRIPCION": "Tornillo Ancla 2 Ojo 5\/8",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000459,
+  "DESCRIPCION": "Torn. Roca Madera",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000446,
+  "DESCRIPCION": "Arandela Cuadrada 2-In",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000342,
+  "DESCRIPCION": "Cinta Tierra 1\/2",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000344,
+  "DESCRIPCION": "Hebillas 201 1\/2 (Metal)",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000332,
+  "DESCRIPCION": "Manga Subterránea 2 Type 2B2A- 505 (PEQUEÑA)",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000333,
+  "DESCRIPCION": "Manga Subterránea 2 Type 2D2A- 505 (CORTA)",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000334,
+  "DESCRIPCION": "MANGA SUBTERRANEA 2- TYPE 2E2B-DD-505 3M (BARRIGONA)",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000356,
+  "DESCRIPCION": "Manga Subterránea 2 Type 2D2B- 505 (LARGA)",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000358,
+  "DESCRIPCION": "Sello Manga 2 Type 505  1 Entrada 2B2-1E",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000397,
+  "DESCRIPCION": "Sello Manga 2 Type 505 2 Entradas 2B2-2E",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000359,
+  "DESCRIPCION": "Sello Manga 2 Type 505 3 Entradas 2B2-3E",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001110,
+  "DESCRIPCION": "Sello Manga 2 Type 505 1 Entrada 2D2-1E",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001111,
+  "DESCRIPCION": "Sello Manga 2 Type 505 2 Entradas 2D2-2E",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001112,
+  "DESCRIPCION": "Sello Manga 2 Type 505 3 Entradas 2D2-3E",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001094,
+  "DESCRIPCION": "Clamp De  Cruce ",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001053,
+  "DESCRIPCION": "Conector Tierra 5\/8",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001010,
+  "DESCRIPCION": "Grapa Suspen.Alp-\"Supenso\"",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000992,
+  "DESCRIPCION": "Grapa Suspension Fig.8 \"J\"",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000993,
+  "DESCRIPCION": "Clamp Pequeño",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000994,
+  "DESCRIPCION": "Triangulito (3M)",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000995,
+  "DESCRIPCION": "Triangulo (3M)",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001000,
+  "DESCRIPCION": "Manga Xaga 1000 E-3",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001001,
+  "DESCRIPCION": "Manga Xaga 1000 E-4",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001002,
+  "DESCRIPCION": "Manga Xaga 1000 D-2",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001003,
+  "DESCRIPCION": "Manga Xaga 1650 A-2",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001004,
+  "DESCRIPCION": "Manga Xaga 1650 B-2",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001005,
+  "DESCRIPCION": "Manga Xaga 1650  C-2",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001006,
+  "DESCRIPCION": "Manga Xaga 1650  D-2",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001253,
+  "DESCRIPCION": "Tape Psi Tipo Rtw  P\/Manga Psi",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 4000178,
+  "DESCRIPCION": "Cabina Cad-6",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 4000176,
+  "DESCRIPCION": "Cabina Cad-12",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000973,
+  "DESCRIPCION": "Modulos De Derivacion 4005 ",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000974,
+  "DESCRIPCION": "Modulos De Transferencia",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000975,
+  "DESCRIPCION": "Conector Discreto Ur2",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000976,
+  "DESCRIPCION": "Conector P\/Alambre De Tierra ",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000977,
+  "DESCRIPCION": "Conector Uy2 (3M)",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000979,
+  "DESCRIPCION": "Conector Ub2 (3M)",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000981,
+  "DESCRIPCION": "Conector Aislador Dcc",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000983,
+  "DESCRIPCION": "Protector U2_Media Caña",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000984,
+  "DESCRIPCION": "Protector Cable U3",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000987,
+  "DESCRIPCION": "Sistema Conexion Modular(Relleno)",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000989,
+  "DESCRIPCION": "TUERCA 1-HOYO PERNO 5\/8 REF. 6510 GALV.",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001012,
+  "DESCRIPCION": "Varilla Tierra 5\/8",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001034,
+  "DESCRIPCION": "Modulos 4320-- \"Modulo Cabina\"",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001037,
+  "DESCRIPCION": " \"Tabaco\" 1\/4",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001038,
+  "DESCRIPCION": " \"Tabaco\" 5\/16",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001039,
+  "DESCRIPCION": "Conector Alambre Trenzado - \"Reduccion\"",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001040,
+  "DESCRIPCION": "Alambre Jumper Cal 24 Nar\/Bl ",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001043,
+  "DESCRIPCION": "Alambre Mensajero 5\/16",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001046,
+  "DESCRIPCION": "Abrazadera Prot. Cable U3",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001049,
+  "DESCRIPCION": "Tape Goma Dr 2 X 15",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001050,
+  "DESCRIPCION": "\"Tape Ancho\"",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001033,
+  "DESCRIPCION": "Cinta Plastica - Amarre",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001051,
+  "DESCRIPCION": "Hebillas Plasticas ",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001014,
+  "DESCRIPCION": "Alambre Para Tejer\"",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 4002693,
+  "DESCRIPCION": "Cable Drop - Cat 3",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 4002689,
+  "DESCRIPCION": "Alambre Jumper Rojo\/Bco ",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 4002682,
+  "DESCRIPCION": "Alambre Drop 2\/22-Cat. 3",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 4002681,
+  "DESCRIPCION": "Alambre Interior 2\/22 -Cat.3",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 4001632,
+  "DESCRIPCION": "Test Terminal (Tester)",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 4001574,
+  "DESCRIPCION": "Grapa Para Drop (Grip)",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 4001575,
+  "DESCRIPCION": "Grapa Expansion Tipo C ",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 4001582,
+  "DESCRIPCION": "Guia De Clavo 5\/8",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 4001565,
+  "DESCRIPCION": "Bloques De 10 Pares P\/Terminales Sli",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001473,
+  "DESCRIPCION": "Limpiador De Manos En Envase De 4.5 Lbs",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000385,
+  "DESCRIPCION": "Kit Letras Reflectivas Negras Fondo Amar",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000393,
+  "DESCRIPCION": "Sello 3 Entrada Terminal Slic 3X33",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001252,
+  "DESCRIPCION": "Cinta Band It - \"Cinta Metal\"",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001254,
+  "DESCRIPCION": "Terminal Slic 3X33 (TERMINAL3)",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001255,
+  "DESCRIPCION": "Terminal Slic 5X33 (TERMINAL5)",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001256,
+  "DESCRIPCION": "Manga Aerea Slic 7\" X 33\"  C\/Selllos 3M",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001257,
+  "DESCRIPCION": "Sello 1 Entrada Terminal Slic 3X34",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001259,
+  "DESCRIPCION": "Mangas Slic 3\" X 33\" (MANGA3)",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001260,
+  "DESCRIPCION": "Mangas 5\" X 33\" (MANGA5)",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001243,
+  "DESCRIPCION": "Espaciadores Para Cable (SEPARADORES)",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001261,
+  "DESCRIPCION": "Ordenador De Drop",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001225,
+  "DESCRIPCION": "Hilo Encerado ",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001235,
+  "DESCRIPCION": "Tornillo Esparrago 7''",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000558,
+  "DESCRIPCION": "Kit Mangas Reentrada Psi",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000561,
+  "DESCRIPCION": "Modulo 4000  Seco ",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000543,
+  "DESCRIPCION": "Letra A",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000542,
+  "DESCRIPCION": "Letra B",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000532,
+  "DESCRIPCION": "Letra C",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000525,
+  "DESCRIPCION": "Letra D",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000526,
+  "DESCRIPCION": "Letra E",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000527,
+  "DESCRIPCION": "Letra F",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000528,
+  "DESCRIPCION": "Letra G",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000529,
+  "DESCRIPCION": "Letra H",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000530,
+  "DESCRIPCION": "Letra I",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000531,
+  "DESCRIPCION": "Letra J",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000533,
+  "DESCRIPCION": "Letra K",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000541,
+  "DESCRIPCION": "Letra L",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000534,
+  "DESCRIPCION": "Letra M",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000535,
+  "DESCRIPCION": "Letra N",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000536,
+  "DESCRIPCION": "Letra O",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001185,
+  "DESCRIPCION": "Letra P",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001186,
+  "DESCRIPCION": "Letra Q",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001187,
+  "DESCRIPCION": "Letra R",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001188,
+  "DESCRIPCION": "Letra S",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001189,
+  "DESCRIPCION": "Letra T",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001190,
+  "DESCRIPCION": "Letra U",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001191,
+  "DESCRIPCION": "Letra V",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001192,
+  "DESCRIPCION": "Letra W",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001193,
+  "DESCRIPCION": "Letra X",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001194,
+  "DESCRIPCION": "Letra Y",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001195,
+  "DESCRIPCION": "Letra Z",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001196,
+  "DESCRIPCION": "Numero 1",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001197,
+  "DESCRIPCION": "Numero 2",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000970,
+  "DESCRIPCION": "Numero 3",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001262,
+  "DESCRIPCION": "Numero 4",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000968,
+  "DESCRIPCION": "Numero 5",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000784,
+  "DESCRIPCION": "Numero 6",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000670,
+  "DESCRIPCION": "Numero 7",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000682,
+  "DESCRIPCION": "Numero 8",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000714,
+  "DESCRIPCION": "Amarradera Cable 8\" (TAIRRA)",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 4001957,
+  "DESCRIPCION": "Pasador De Acero Anilla Guia Mart.",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000178,
+  "DESCRIPCION": "Sujetador De Drop P\/Poste De Concreto",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 4000671,
+  "DESCRIPCION": "Tubo Galvanizado De 5’ S.W",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000182,
+  "DESCRIPCION": "Tubo Metalico Galvanizado",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001031,
+  "DESCRIPCION": "Sellador Para Ductos 4416 -3M",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001229,
+  "DESCRIPCION": "Kit Limpiador Cables 4413-L (600 Pare)3M",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000387,
+  "DESCRIPCION": "Manga Pk Pequeña",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001287,
+  "DESCRIPCION": "Saco Polyestileno",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000388,
+  "DESCRIPCION": "Manga Pk Grande",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1002213,
+  "DESCRIPCION": "Papel Servilleta",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000560,
+  "DESCRIPCION": "Lubricante (Grasa) Para Instalacion De Cable ",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000412,
+  "DESCRIPCION": "Terminal De Pared Con Splitter 1:8",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000712,
+  "DESCRIPCION": "Protector Contractil Fibra O.2170 Fo(3M)",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 4000569,
+  "DESCRIPCION": "Fibra Opt.4H Fg8 Adss 7.5Mm  69136041Am",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001044,
+  "DESCRIPCION": "Alambre Mensajero Trenzado  1\/4",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000713,
+  "DESCRIPCION": "Amarradera Cable 4\" Peq Negra Pq=100 Ea",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001231,
+  "DESCRIPCION": "Bandeja Fibra Optica 2524-T (3M)",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001230,
+  "DESCRIPCION": "Extension Manga Fibra Optica 2181-Ls 3M",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 4000672,
+  "DESCRIPCION": "Fiber O 12 Hil Single Armor  69199 12 1",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 4000670,
+  "DESCRIPCION": "Fiber Opt 24 Hil Single Armor\/Loose Tube",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 4000669,
+  "DESCRIPCION": "Fiber Opt 48 Hil Single Armor\/Loose Tube",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 4000290,
+  "DESCRIPCION": "Fiber Opt 96 Hil Single Armor\/Loose Tube",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 4000564,
+  "DESCRIPCION": "Fibra Optica 144 Hil Single Armor\/Loose",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000335,
+  "DESCRIPCION": "Manga Fo - 24 Pos Rn402 - A. Vissem",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001007,
+  "DESCRIPCION": "Manga Term. Fibra O-C5603B  Unified",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000328,
+  "DESCRIPCION": "Manga Terminal Fo Aerea Cs803A-A-T3-8",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000710,
+  "DESCRIPCION": "Mangas Corta F. O.De 48 Hilos 2178-3M",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001232,
+  "DESCRIPCION": "Mangas Largas F.O.2178 De 96 Hilo (3M)",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000413,
+  "DESCRIPCION": "Miniterminal Int. Sc\/Apc C\/Splitter, 3C",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000327,
+  "DESCRIPCION": "Protector Termocontr. Fo Adc (100 X Paq)",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000991,
+  "DESCRIPCION": "Splitter Dual 1X8(Adc) Fps-Mpp1Ljj - Pnp",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000990,
+  "DESCRIPCION": "Terminal Aereo Fo Con Splitter 1X8",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 4001579,
+  "DESCRIPCION": "Gancho Grande",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001240,
+  "DESCRIPCION": "SELLO DE 1 ENTRADA MANGA SLIC 5 X 33 3M",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 4000277,
+  "DESCRIPCION": "Cable 25X24 ALP",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1003793,
+  "DESCRIPCION": "SPAN CLAMP TYPE C SI-0952",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 4001548,
+  "DESCRIPCION": "CABLE INTERIOR BEIGE 1X2\/22 CMX",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 4000293,
+  "DESCRIPCION": "CABLE  3000 x 26 ALP-FILLED FOAM SKIN",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1000544,
+  "DESCRIPCION": "PARAFINA PARA SELLAR REGISTRO 122-2",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1007136,
+  "DESCRIPCION": "MODULO DERIVACION SECO 4005 DPM SUP.3M",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1022052,
+  "DESCRIPCION": "ALUMINIO 1350 HDB #4 AAC",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001224,
+  "DESCRIPCION": "SELLO DE 2 ENTRADA MANGA SLIC 5X33 (3M)",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001258,
+  "DESCRIPCION": "SELLO DE 2 ENTRADA MANGA 3X33 (3M)",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1001227,
+  "DESCRIPCION": "SELLO DE 3 ENTRADA MANGA SLIC 5 X 33",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 1022160,
+  "DESCRIPCION": "MODULO QCS 2810 (50 PARES) CORNING",
+  "CANTIDAD": 0
+ },
+ {
+  "CODIGOS": 4002688,
+  "DESCRIPCION": "ALAMBRE JUMPER AZUL\/BCO 2\/22 PRL 1000'",
+  "CANTIDAD": 0
+ }
+]
+}
