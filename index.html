@@ -459,6 +459,46 @@
 	</div>
 
 
+
+	      <input type="text" class="form-control" id="descripcion" placeholder="Buscar materiales..." onkeyup="buscarMaterial()">
+    <button id="voiceButton">🎤</button>
+
+    <script>
+        // Función de búsqueda de materiales
+        function buscarMaterial() {
+            const descripcion = document.getElementById("descripcion").value;
+            console.log("Buscando: " + descripcion);
+            // Implementa la lógica de búsqueda aquí
+        }
+
+        // API de reconocimiento de voz
+        const voiceButton = document.getElementById('voiceButton');
+        const descripcionInput = document.getElementById('descripcion');
+
+        // Verifica si el navegador soporta la API
+        if ('webkitSpeechRecognition' in window) {
+            const recognition = new webkitSpeechRecognition();
+            recognition.lang = 'es-ES'; // Configura el idioma a español
+            recognition.continuous = false;
+            recognition.interimResults = false;
+
+            // Cuando el reconocimiento detecta la voz
+            recognition.onresult = function(event) {
+                const transcript = event.results[0][0].transcript;
+                descripcionInput.value = transcript;
+                buscarMaterial(); // Ejecuta la función de búsqueda
+            };
+
+            // Inicia el reconocimiento de voz al hacer clic en el botón
+            voiceButton.onclick = function() {
+                recognition.start();
+            };
+
+        } else {
+            alert("El reconocimiento de voz no está soportado en este navegador.");
+        }
+    </script>
+
 <script>
 
 
